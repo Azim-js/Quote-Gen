@@ -6,7 +6,7 @@
     font-family: 'Roboto', sans-serif;
 }
 body {
-    background-image: url("back3.jpeg");
+    background-image: url("/img/back3.jpeg");
     background-size:cover;
     opacity: 0.9 ;
     height: 100vh;
