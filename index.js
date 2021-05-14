@@ -1,16 +1,16 @@
 // Collection Of Quote
 const quotes = [{
-    quote: `I'm not a great programmer; I'm just a good programmer with great habits.`,
-    author: `- Kent Beck`
+    quote: `Believing you’re a good person and actually being one are two completely different things.`,
+    author: `- Anonymous`
 }, {
-    quote: `Talk is cheap. Show me the code.`,
-    author: `- Linus Torvalds`
+    quote: `Be a good person. But don’t waste time proving it.`,
+    author: `- Anonymous`
 }, {
-    quote: `Programs must be written for people to read, and only incidentally for machines to execute.`,
-    author: `- Harold Abelson`
+    quote: `Success to me is being a good person, treating people well.`,
+    author: `- David LaChapelle`
 }, {
-    quote: `Truth can only be found in one place: the code.`,
-    author: `- Robert C`
+    quote: `If everyone were a good person, it’d obviously be a better world.`,
+    author: `- Aaron Paul`
 }, {
     quote: `Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.`,
     author: `- Muhammad Waseem`
@@ -18,18 +18,21 @@ const quotes = [{
     quote: `How you look at it is pretty much how you'll see it`,
     author: `- Steve Jobs`
 }, {
-    quote: `The most disastrous thing that you can ever learn is your first programming language.`,
-    author: `- Alan Kay`
+    quote: `I am more worried about being a good person than being the best football player in the world.`,
+    author: `- Lionel Messi`
 }, {
-    quote: `The most important property of a program is whether it accomplishes the intention of its user.`,
-    author: `- C.A.R. Hoare`
+    quote: `I am even thankful for the negative things that have made me a stronger and better person.`,
+    author: `- Joanna Krupa`
 }, {
-    quote: `i am committed to push my branch to the master.`,
-    author: `- Halgurd Hussein`
+    quote: `I thank my mom... I thank God for my mom every day because I think if it wasn't for her, who knows?`,
+    author: `- Joanna Krupa`
 }, {
-    quote: `Coding is not just code, that is a live thing to serve everyone!`,
-    author: `- Ming Song`
-}, ]
+    quote: `When trouble comes, focus on God's ability to care for you.`,
+    author: `- Charles Stanley`
+}, {
+    quote:`Do nothing but good.`,
+    author:`- Anonymous `
+}]
 // New Quote Button
 const quoteBtn = document.getElementById('quote-btn');
 // Get Quote and author Section
